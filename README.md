@@ -22,5 +22,5 @@
 
 * Lab10 : Exploring Movie Recommendation Datasets like movielens 100k dataset, Implementing basic matrix factorization (MF) technique for recommender systems, Recommender Systems using matrix factorization sckitlearn
 
-* Lab11 : Preprocessing 20newsgroups dataset, Implementing Naive Bayes Classifier for Text Data, Implementing SVM Classifier via Scikit-Learn
+* Lab11 : Preprocessing 20newsgroups dataset, Implementing Naive Bayes Classifier for Text Data, Implementing SVM Classifier via Scikit
 
